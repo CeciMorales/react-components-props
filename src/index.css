@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.class-component {
+  background-color: plum;
+  margin: 2rem;
+  padding: 2rem;
+}
+
+.functional-component {
+  background-color: paleturquoise;
+  margin: 2rem;
+  padding: 2rem;
+}
+
+.profile {
+  background-color: #FEC8D8;
+  margin: 2rem 2rem 5rem 2rem;
+  padding: 1rem;
+}
+
+.button {
+  background-color: hotpink;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 15px 2px;
+  cursor: pointer;
+  border-radius: 10%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
